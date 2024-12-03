@@ -31,5 +31,5 @@ Another reason why polynomial schemes are useful is that the commitment $c$ is
 
 ## Learn more
 
-- [https://en.wikipedia.org/wiki/Commitment_scheme](https://en.wikipedia.org/wiki/Commitment_scheme)
+- [https://cacr.uwaterloo.ca/techreports/2010/cacr2010-10.pdf](https://cacr.uwaterloo.ca/techreports/2010/cacr2010-10.pdf)
 - [https://learn.0xparc.org/materials/halo2/miscellaneous/polynomial-commitment](https://learn.0xparc.org/materials/halo2/miscellaneous/polynomial-commitment)
